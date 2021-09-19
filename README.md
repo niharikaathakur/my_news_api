@@ -16,8 +16,4 @@ Dependecy Used :
     float="left"
 />
 
-<img src="ScreenShots/CategorySpecificScreen.png" 
-    alt="Category Specific Screen" 
-    style="width: 250px" 
-    float="right"
-/>
+
